@@ -1,6 +1,6 @@
 # Hi, I'm Manukrishna 
 
-B.Tech ECE @ NIT Calicut
+B.Tech ECE at NIT Calicut
 Interested in Machine Learning, Embedded Systems & AI
 
 ---
@@ -14,6 +14,7 @@ Smart Storage Box (Arduino)
 https://github.com/ManukrishnaS24/Smart-Storage-Box-Code
 
 Hydraulic Condition Monitoring Project during Internship (ML)
+https://github.com/ManukrishnaS24/Hydraulic-Rig-Classification-System
 
 Movie Ticket Booking System (C++)
 
