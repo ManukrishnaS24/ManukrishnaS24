@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Manukrishna 
 
-<!--
-**ManukrishnaS24/ManukrishnaS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech ECE @ NIT Calicut
+Interested in Machine Learning, Embedded Systems & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+LLM-based Resume Screening System using Gemini
+https://github.com/ManukrishnaS24/Resume-screening-llm
+
+Smart Storage Box (Arduino)
+https://github.com/ManukrishnaS24/Smart-Storage-Box-Code
+
+Hydraulic Condition Monitoring Project during Internship (ML)
+
+Movie Ticket Booking System (C++)
+
+Charity Website Files
+https://github.com/ManukrishnaS24/Website-Files
+
+
+---
+
+## Skills
+
+* Python, C++, SQL
+* Machine Learning (Scikit-learn)
+* Data Analysis (NumPy, Pandas, Matplotlib)
+* Arduino & Embedded Systems
+
+---
+
+## Contact
+
+📧 [manukrishnasasidharan@gmail.com](mailto:manukrishnasasidharan@gmail.com)
